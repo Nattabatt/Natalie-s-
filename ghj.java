@@ -1,9 +1,9 @@
 
 /**
  * Write a description of class ghj here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ *hi
+ * @author (natalie)
+ * @version 3-13-19
  */
 public class ghj
 {
